@@ -5,7 +5,7 @@ The costs of scholarly publishing are divided into eight categories and has the 
 | Category | Source |
 | :------ | :--------- |
 | *Subscriptions, Bibsam* | Bibsam consortium's administrative system <br>|
-| *Local subscriptions* | Den för sammanställningen framtagna enkäten<br>|
+| *Local subscriptions* | Survey developed for the report <br>|
 | *Transformative agreements, Bibsam* | Bibsam consortium's administrative system <br>|
 | *Open access publishing, Bibsam* | Bibsam consortium's administrative system <br>|
 | *Open access publishing, research funders*  | Bibsam consortium's administrative system <br>|
