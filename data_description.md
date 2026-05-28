@@ -1,6 +1,6 @@
 # Types of costs and their sources
 
-The costs of scholarly publishing are divided into eight categories and has the following sources:
+The costs of scholarly publishing are divided into eight categories and has the following sources: <br>
 
 <br>
 | Category | Source |
