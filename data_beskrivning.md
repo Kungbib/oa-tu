@@ -1,7 +1,6 @@
 # Utgiftskategorier och dess källor
 
-Utgifter för vetenskaplig publicering är fördelade på åtta kategorier och har följande källor:
-
+Utgifter för vetenskaplig publicering är fördelade på åtta kategorier och har följande källor:<br>
 <br>
 | Kategori | Källa |
 | :------ | :--------- |
