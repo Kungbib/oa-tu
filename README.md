@@ -7,3 +7,8 @@ Uppdraget återfinns i KB:s regleringsbrev och har genomförts sedan 2017. Läs 
 
 Data tillgängliggörs dels som csv-filer, dels sammanställt i en Excel-fil.
 Tidigare års filer återfinns i mappen arkiv. I Excel-filen är samtliga redovisade år sammanställda i en tidsserie.
+
+# Costs of scholarly publishing
+Data are made available from the reporting of the National Library of Sweden’s assignment to present the total expenditure for scholarly publishing at Swedish higher education institutions. 
+
+Read more about the assignment, the principles and starting points for the reporting, view the latest charts, and find links to the reports on [kb.se](https://www.kb.se/for-bibliotekssektorn/eng/open-science/open-access/costs-of-scholarly-publishing.html).
