@@ -52,4 +52,7 @@ The costs of scholarly publishing are divided into eight categories and has the 
 † Catebgory introduced in 2023.<br>
 <br>
 All data are in Swedish kronor (SEK). <br>
-0 = No expense or no data.
+0 = No expense or no data.\
+
+Kontak/Contact: <openaccess@kb.se>
+
