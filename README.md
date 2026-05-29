@@ -8,9 +8,8 @@ Här tillgängliggörs resultat från redovisningen av Kungliga bibliotekets upp
 Uppdraget återfinns i KB:s regleringsbrev. Läs mer om uppdraget, principer och utgångspunkter för redovisning, och se de senaste diagrammen samt hitta länkar till redovisningen på [kb.se](https://www.kb.se/for-bibliotekssektorn/oppen-vetenskap/oppen-tillgang/utgifter-for-vetenskaplig-publicering.html).
 
 Data tillgängliggörs för åren 2019 - 2025 i en Excel-fil med flera flikar. En med de totala utgifterna fördelade per kategori och år, samt en per kategori där utgifterna är fördelade per lärosäte och år. 
-
+  
 ## Utgiftskategorier och dess källor
-
 Utgifter är fördelade på åtta kategorier och har följande källor:<br>
 <br>
 | Kategori | Källa |
@@ -28,7 +27,7 @@ Utgifter är fördelade på åtta kategorier och har följande källor:<br>
 <br>
 Enheten för all data är svenska kronor (SEK). <br>
 0 = utgiftsuppgift saknas eller är lika med noll.<br>
-\
+  
 # Costs of scholarly publishing
 Data are made available from the reporting of the National Library of Sweden’s assignment to present the total expenditure for scholarly publishing at Swedish higher education institutions. 
 
@@ -37,7 +36,6 @@ Read more about the assignment, the principles and starting points for the repor
 Data is made available for the period 2019 - 2025 in an Excel-file with multiple sheets. One sheet describes the total costs per category and year, while the others containt costs per category distributed per higher education institution and year.
 
 ## Types of costs and their sources
-
 The costs of scholarly publishing are divided into eight categories and has the following sources: <br>
 <br>
 | Category | Source |
