@@ -28,7 +28,7 @@ Utgifter är fördelade på åtta kategorier och har följande källor:<br>
 <br>
 Enheten för all data är svenska kronor (SEK). <br>
 0 = utgiftsuppgift saknas eller är lika med noll.<br>
-
+\
 # Costs of scholarly publishing
 Data are made available from the reporting of the National Library of Sweden’s assignment to present the total expenditure for scholarly publishing at Swedish higher education institutions. 
 
