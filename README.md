@@ -3,10 +3,9 @@
 
 Här tillgängliggörs resultat från redovisningen av Kungliga bibliotekets uppdrag att redovisa de totala utgifterna för vetenskaplig publicering vid svenska lärosäten. 
 
-Uppdraget återfinns i KB:s regleringsbrev och har genomförts sedan 2017. Läs mer om uppdraget, principer och utgångspunkter för redovisning, och se de senaste diagrammen samt hitta länkar till redovisningen på [kb.se](https://www.kb.se/for-bibliotekssektorn/oppen-vetenskap/oppen-tillgang/utgifter-for-vetenskaplig-publicering.html).
+Uppdraget återfinns i KB:s regleringsbrev. Läs mer om uppdraget, principer och utgångspunkter för redovisning, och se de senaste diagrammen samt hitta länkar till redovisningen på [kb.se](https://www.kb.se/for-bibliotekssektorn/oppen-vetenskap/oppen-tillgang/utgifter-for-vetenskaplig-publicering.html).
 
-Data tillgängliggörs dels som csv-filer, dels sammanställt i en Excel-fil.
-Tidigare års filer återfinns i mappen arkiv. I Excel-filen är samtliga redovisade år sammanställda i en tidsserie.
+Data tillgängliggörs i en Excel-fil för åren 2019 - 2025 med flera flikar. En med de totala utgifterna fördelade per kategori och år, samt en utgifter per kategori fördelad per lärosäte och år. 
 
 ## Utgiftskategorier och dess källor
 
@@ -21,9 +20,10 @@ Utgifter för vetenskaplig publicering är fördelade på åtta kategorier och h
 | *Öppet tillgänglig publicering, forskningsfinansiärer* | Bibsamkonsortiets administrativa system <br>|
 | *Öppet tillgänglig publicering, lokalt* | Open APC Sweden/Den för sammanställningen framtagna enkäten <br>|
 | *Fysiskt förvärv* | Sveriges officiella biblioteksstatistik<br>|
-| *Infrastrukturer för öppen publicering* | Den för sammanställningen framtagna enkäten <br>|
-
+| *Infrastrukturer för öppen publicering*† | Den för sammanställningen framtagna enkäten <br>|
 <br>
+† Kategorin infördes 2023.<br>
+
 Enheten för all data är svenska kronor (SEK). <br>
 0 = utgiftsuppgift saknas eller är lika med noll.
 
