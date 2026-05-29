@@ -54,5 +54,5 @@ The costs of scholarly publishing are divided into eight categories and has the 
 All data are in Swedish kronor (SEK). <br>
 0 = No expense or no data. <br>
 <br>
-Kontak/Contact: <openaccess@kb.se>
+Kontak/Contact <openaccess@kb.se>
 
