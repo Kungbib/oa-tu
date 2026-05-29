@@ -22,6 +22,7 @@ Utgifter är fördelade på åtta kategorier och har följande källor:<br>
 | *Öppet tillgänglig publicering, lokalt* | Open APC Sweden/Den för sammanställningen framtagna enkäten <br>|
 | *Fysiskt förvärv* | Sveriges officiella biblioteksstatistik<br>|
 | *Infrastrukturer för öppen publicering*† | Den för sammanställningen framtagna enkäten <br>|
+<br>
 † Kategorin infördes 2023.<br>
 <br>
 Enheten för all data är svenska kronor (SEK). <br>
@@ -47,6 +48,7 @@ The costs of scholarly publishing are divided into eight categories and has the 
 | *Open access publishing, local* | Open APC Sweden/Survey developed for the report <br>|
 | *Acquisitions* | Official library statistics, Sweden <br>|
 | *Infrastructures for open access publishing*† | Survey developed for the report <br>|
+<br>
 † Catebgory introduced in 2023.<br>
 <br>
 All data are in Swedish kronor (SEK). <br>
